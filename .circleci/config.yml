@@ -1,0 +1,5 @@
+steps:
+  - checkout
+  - run:
+      name: "Test CircleCi "
+      command: "echo Python Django About to Begin. Hello, World, This is Reema."
